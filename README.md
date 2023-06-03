@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 And thank you so much for your attention. God bless you and I would be more than happy to hear from you soon for any other info you would like...
 ## Cheers!
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=porag-m06&show_icons=true&locale=en&layout=compact" alt="porag-m06"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=porag-m06&show_icons=true&locale=en" alt="porag-m06"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=porag-m06&" alt="porag-m06"/>
 
-## <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=porag-m06&" alt="porag-m06"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=porag-m06&show_icons=true&locale=en&layout=compact" alt="porag-m06"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=porag-m06&show_icons=true&locale=en" alt="porag-m06"/></p>
