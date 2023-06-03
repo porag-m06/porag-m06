@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 - I am on a mission to join a strong tech company working remotely and I am proud of the steps I am taking to achieve this.
 
-# And thank you so much for your attention. God bless you and I would be more than happy to hear from you soon for any other info you would like...
+And thank you so much for your attention. God bless you and I would be more than happy to hear from you soon for any other info you would like...
 ## Cheers!
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=porag-m06&show_icons=true&locale=en&layout=compact" alt="porag-m06"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=porag-m06&" alt="porag-m06"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=porag-m06&show_icons=true&locale=en&layout=compact" alt="porag-m06"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=porag-m06&show_icons=true&locale=en" alt="porag-m06"/></p>
