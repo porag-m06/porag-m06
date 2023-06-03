@@ -62,6 +62,5 @@ And thank you so much for your attention. God bless you and I would be more than
 ## Cheers!
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=porag-m06&show_icons=true&locale=en&layout=compact" alt="porag-m06"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=porag-m06&show_icons=true&locale=en" alt="porag-m06"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=porag-m06&" alt="porag-m06"/></p>
