@@ -1,8 +1,6 @@
 <h2>Oh! Hi there 👋, I'm Porag! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em><img 
-<iframe src="https://giphy.com/embed/SXxI9NlwvYiY3bRsck" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/microsoft-hackathon-msftgarage-msfthackathon-SXxI9NlwvYiY3bRsck">via GIPHY</a></p>
-
+<p><em>Remote Full-stack web developer ready for adventure</em></p>
 <!--
 **porag-m06/porag-m06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
