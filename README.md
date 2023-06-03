@@ -52,14 +52,16 @@ Here are some ideas to get you started:
 
 ### What am I upto now...
 - I’ve been spending the last several months sharpening my development skills even more by collaborating with people from 6 different timezones remotely at Microverse, an online training school, intensely focusing on the core to advanced full-stack technical skill development. 
-
 - As well as achieving important soft skills like self-reflection, professionalism, and cross-cultural communication. All through remote pair programming project by project, capstone by capstone. 
-
 - I am on a mission to join a strong tech company working remotely and I am proud of the steps I am taking to achieve this.
+
+<br>
 
 And thank you so much for your attention. God bless you and I would be more than happy to hear from you soon for any other info you would like...
 ## Cheers!
+
 <br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=porag-m06&show_icons=true&locale=en&layout=compact" alt="porag-m06"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=porag-m06&show_icons=true&locale=en" alt="porag-m06"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=porag-m06&" alt="porag-m06"/>
