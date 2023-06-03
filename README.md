@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github.com/porag-m06/porag-m06/blob/main/Md.%20Porag%20Sarkar%20-%20Tech%20Stack%20.png" alt="Md. Porag Sarkar - Technology Stack" height="auto" width="auto" /> <br><br>
 
 ##  A bit more about me...
-So, my name is Porag. I am Computer Science major and a full-stack software engineer with 2+ years of experience specializing in Spring Boot, and Angular building enterprise solutions.
+So, my name is Porag. I am a Computer Science major and a full-stack software engineer with 2+ years of experience specializing in Spring Boot, and Angular building enterprise solutions.
 - I know how to get to the best possible solution by catching the client's pulse, working to tight deadlines, collaborating between teams, resolving conflicts, and learning fast when necessary.
 
 <br>
