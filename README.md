@@ -54,7 +54,7 @@ So, my name is Porag. I am Computer Science major and a full-stack software engi
 - As well as achieving important soft skills like self-reflection, professionalism, and cross-cultural communication. All through remote pair programming project by project, capstone by capstone. 
 - I am on a mission to join a strong tech company working remotely and I am proud of the steps I am taking to achieve this.
 
-<br>
+<br> <br>
 
 And thank you so much for your attention. God bless you and I would be more than happy to hear from you soon for any other info you would like...
 ## Cheers!
