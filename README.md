@@ -44,9 +44,11 @@ So, my name is Porag. I am Computer Science major and a full-stack software engi
 I know how to get to the best possible solution by catching the client's pulse, working to tight deadlines, collaborating between teams, resolving conflicts, and learning fast when necessary.
 
 <br>
-### A bit of background...
+
+###A bit of background...
 After completing my bachelor's in Computer Science in 2020 I did my first internship on full-stack web development. After this, I got an offer and joined my first IT job in 2021 as a junior full-stack developer. Where I worked with Java, and Spring Boot on the backend, and used TypeScript, and Angular on the front end on 3+ ERP software solutions serving 200+ clients. I also prepared and presented more than 5 product presentations among which the client retention rate is more than 90%. 
 <br>
+
 ### What am I upto now...
 I’ve been spending the last several months sharpening my development skills even more by collaborating with people from 6 different timezones remotely at Microverse, an online training school, intensely focusing on the core to advanced full-stack technical skill development. 
 
