@@ -47,6 +47,7 @@ I know how to get to the best possible solution by catching the client's pulse, 
 
 ### A bit of background...
 After completing my bachelor's in Computer Science in 2020 I did my first internship on full-stack web development. After this, I got an offer and joined my first IT job in 2021 as a junior full-stack developer. Where I worked with Java, and Spring Boot on the backend, and used TypeScript, and Angular on the front end on 3+ ERP software solutions serving 200+ clients. I also prepared and presented more than 5 product presentations among which the client retention rate is more than 90%. 
+
 <br>
 
 ### What am I upto now...
@@ -61,6 +62,6 @@ And thank you so much for your attention. God bless you and I would be more than
 ## Cheers!
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=porag-m06&show_icons=true&locale=en&layout=compact" alt="porag-m06" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=porag-m06&show_icons=true&locale=en" alt="porag-m06" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=porag-m06&" alt="porag-m06" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=porag-m06&show_icons=true&locale=en&layout=compact" alt="porag-m06" /></p> <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=porag-m06&show_icons=true&locale=en" alt="porag-m06" /></p> <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=porag-m06&" alt="porag-m06" /></p> <br>
