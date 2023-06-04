@@ -1,6 +1,6 @@
 <h1 align="center">Oh! Hi there 👋, I'm Porag! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
 <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
-<p><em>Remote Full-stack web developer ready for adventure</em>
+<p><em>The remote Full-stack web developer ready for adventure...</em>
   
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 ```javascript
