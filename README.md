@@ -45,18 +45,18 @@ So, my name is Porag. I am a Computer Science major and a full-stack software en
 <br>
 
 ### A bit of background...
-- After completing my bachelor's in Computer Science in 2020 I did my first internship on full-stack web development. After this, I got an offer and joined my first IT job in 2021 as a junior full-stack developer. Where I worked with Java, and Spring Boot on the backend, and used TypeScript, and Angular on the front end on 3+ ERP software solutions serving 200+ clients. I also prepared and presented more than 5 product presentations among which the client retention rate is more than 90%. 
+- After completing my bachelor's in Computer Science in 2020 I did my first internship on full-stack web development. After this, I got an offer and joined my first IT job in 2021 as a junior full-stack developer. Where I worked with Java, and Spring Boot on the backend, and used TypeScript, and Angular on the front end on 3+ ERP software solutions serving 200+ clients. I also prepared and presented more than 5 product presentations among which the client retention rate was more than 90%. 
 
 <br>
 
 ### What am I upto now...
 - I’ve been spending the last several months sharpening my development skills even more by collaborating with people from 6 different timezones remotely at Microverse, an online training school, intensely focusing on the core to advanced full-stack technical skill development. 
-- As well as achieving important soft skills like self-reflection, professionalism, and cross-cultural communication. All through remote pair programming project by project, capstone by capstone. 
-- I am on a mission to join a strong tech company working remotely and I am proud of the steps I am taking to achieve this.
+- As well as achieving important soft skills like leadership, self-reflection, professionalism, and cross-cultural communication. All through remote pair programming - project by project, capstone by capstone. 
+- I am on a mission to join a strong tech company working remotely and I am proud of the steps I am taking to achieve that.
 
 <br> <br>
 
-And thank you so much for your attention. God bless you and I would be more than happy to hear from you soon for any other info you would like...
+Finally, I would like to thank you form the bottom of my heart for your kind attention. God bless you and I would be more than happy to hear from you soon for any other info you would like...
 ## Cheers!
 
 <br>
