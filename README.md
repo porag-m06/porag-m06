@@ -52,7 +52,7 @@ So, my name is Porag. I am a Computer Science major and a full-stack software en
 ### What am I upto now...
 - I’ve been spending the last several months sharpening my development skills even more by collaborating with people from 6 different timezones remotely at Microverse, an online training school, intensely focusing on the core to advanced full-stack technical skill development. 
 - As well as achieving important soft skills like leadership, self-reflection, professionalism, and cross-cultural communication. All through remote pair programming - project by project, capstone by capstone. 
-- I am on a mission to join a strong tech company working remotely and I am proud of the steps I am taking to achieve that.
+- **I am on a mission to join a strong tech company working remotely and I am proud of the steps I am taking to achieve that.**
 
 <br> <br>
 
