@@ -10,7 +10,7 @@ const porag = {
   code: [SQL, MySQL, Java, Spring Boot, Semantic UI, HTML5, CSS3, Bootstarp5, JavaScript, TypeScript, Angular],
   challenge: "I am honing my Problem-Solving and JavaScript & TypeScript skills",
   funFacts: ['I have 2+ years of remote work experience with devs & AWS certified cloud practitioner', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
+  'my tiny chihuahua dog is ready to woof at the right offer :)']
 }
 ```
 
