@@ -5,7 +5,7 @@
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const porag = {
-  me:[A Son, Brother, Friend, Husband & A Proud Father],
+  me:[A Son, Brother, Friend, Husband & A Caring Father],
   lookingFor: "Full-stack web developer",
   code: [SQL, MySQL, Java, Spring Boot, Semantic UI, HTML5, CSS3, Bootstarp5, JavaScript, TypeScript, Angular],
   challenge: "I am honing my Problem-Solving and JavaScript & TypeScript skills",
