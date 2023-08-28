@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-porag-nsu-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/muhammad-porag-nsu-cse/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mdporagsarkarh2s197/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mdporagsarkarh2s197" height="30" width="40" /></a>
