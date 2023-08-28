@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 <p><em>The remote Full-stack web developer ready for adventure...</em>
   
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little about me...  
 ```javascript
 const porag = {
   me:[A Son, Brother, Friend, Husband & A Caring Father],
