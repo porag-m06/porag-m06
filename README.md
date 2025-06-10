@@ -75,16 +75,16 @@ Here are some ideas to get you started:
 
 
 ## 📌 What I’m Working On  
-🚀 Developing **scalable microservices** architecture for high-traffic platforms  
+🚀 Developing **scalable microservices** for high-traffic platforms  
 🌍 Building **cloud-native applications** with AWS & Kubernetes  
-📚 Improving **problem-solving skills** and refining backend architecture  
+📚 Improving **problem-solving** and **system design skills**  
 💡 Exploring **cutting-edge technologies in distributed systems**  
 
 ## 🏆 A Bit About Me  
 🎓 **B.Sc. in Computer Science & Engineering** from **North South University, Dhaka**  
-🖥 **3.5+ years of Java, Springboot backend development & microservices experience**  
+🖥 **3.5+ years of Java, Springboot backend development experience**  
 🏗 Domain **hospital management & travel booking solutions serving millions**  
-🌎 **Remote collaboration expert** – Worked across **six different time zones**  
+🌎 **Remote collaboration expert** – Worked with people across **six different time zones**  
 🎯 Catching the client's pulse, working to tight deadlines, collaborating between teams, resolving conflicts, and learning fast when necessary 🎯"
    
 
