@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 - Optimizing **PostgreSQL queries and Elasticsearch indexing** for near real-time search performance  
 - Enhancing **Kafka-based async communication** for efficient distributed messaging
 
-### 🚀 Microverse & Skill Enhancement:  | Feb 2023 – Sept 2023**  
+### **Microverse | Bootcamp & Skill Enhancement 🚀 | Feb 2023 – Sept 2023**
 - Sharpened full-stack development skills through collaboration in Microverse, an immersive training program
 - Pair-programmed remotely across six time zones, refining problem-solving & leadership skills
 - Explored advanced backend architecture, microservices scalability, and cloud-native solutions
