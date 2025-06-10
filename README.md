@@ -114,11 +114,11 @@ Here are some ideas to get you started:
 Stay awesome & keep coding! Cheers! 🎉
 
 ## Let's Connect 🔗 
-📧 Email: hello2sarkar@gmail.com 
-📞 Phone: +880 1755006689 
-🖥 GitHub: github.com/porag-m06 
-📹 YouTube: youtube.com/@mdporagsarkarh2s197/videos 
-💼 LinkedIn: linkedin.com/in/muhammad-porag-nsu-cse
+- 📧 Email: hello2sarkar@gmail.com 
+- 📞 Phone: +880 1755006689 
+- 🖥 GitHub: github.com/porag-m06 
+- 📹 YouTube: youtube.com/@mdporagsarkarh2s197/videos 
+- 💼 LinkedIn: linkedin.com/in/muhammad-porag-nsu-cse
 
 
 <br>
