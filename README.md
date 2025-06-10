@@ -1,16 +1,51 @@
 <h1 align="center">Oh! Hi there 👋, I'm Porag! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
 <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
-<p><em>The remote Full-stack web developer ready for adventure...</em>
+<p><em>Ready for adventure...</em>
   
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little about me...  
-```javascript
-const porag = {
-  me:[A Son, Brother, Friend, Husband & A Caring Father],
-  lookingFor: "Full-stack web developer",
-  code: [SQL, MySQL, Java, Spring Boot, Semantic UI, HTML5, CSS3, Bootstarp5, JavaScript, TypeScript, Angular],
-  challenge: "I am honing my Problem-Solving and JavaScript & TypeScript skills",
-  funFacts: ['I have 2+ years of remote work experience with devs & AWS certified cloud practitioner', 
-  'my tiny chihuahua dog is ready to woof at the right offer :)']
+```java
+public class Porag {
+    private String name = "Md. Porag Sarkar";
+    private String role = "Software Engineer | Backend Focused | Microservices Maestro | API Enthusiast";
+    private boolean lovesCleanCode = true;
+    private boolean drinksTooMuchCoffee = true;
+
+    private String[] skills = {
+        "Java", "Spring Boot", "PostgreSQL", "Hibernate", "REST APIs", "Microservices",
+        "Kafka", "Elasticsearch", "Docker", "Kubernetes", "AWS Cloud",
+        "Spring Security", "OAuth2", "JWT Authentication", "Git", "Agile", "Jira"
+    };
+
+    private String[] funFacts = {
+        " 💻 Writing clean, scalable backend code with Java & Spring Boot 💻 ",
+        " ☕ Architecting microservices that talk better than my morning coffee talks to me ☕",
+        " ⚡ Optimizing Kafka & Elasticsearch because messages should not be lost & searching should be fast and data reliable ⚡",
+        " 🔐 Securing APIs with Spring Security/ OAuth 2/ JWTn—because security is NOT optional 🔐",
+        " 💡 Debugging mindset: " + (lovesCleanCode ? "Clean code all the way!" : "Needs refactoring..."),
+        " 🌍 Remote collaboration with devs across 6 time zones 🌍",
+        " ☕ Coffee dependency level: " + (drinksTooMuchCoffee ? "High ⚡" : "Balanced"),
+        " 🚀 Break bugs, not production! 🚀"
+    };
+
+    public void hiAndConnect() {
+        System.out.println("🚀 Meet " + name + "!");
+        System.out.println("💼 Role: " + role);
+        System.out.println("🔗 Skills:");
+        for (String skill : skills) {
+            System.out.println("   - " + skill);
+        }
+        System.out.println("🎉 Fun Facts:");
+        for (String fact : funFacts) {
+            System.out.println("   - " + fact);
+        }
+        System.out.println("📬 Let’s connect & build something amazing!");
+    }
+
+    public static void main(String[] args) {
+        Porag porag = new Porag();
+        porag.hiAndConnect();
+        System.out.println("🐶 Porag's tiny chihuahua monitors CI/CD pipelines! And is ready to woof at the right offer :)");
+    }
 }
 ```
 
@@ -36,31 +71,57 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">My Tech Stack: </h3>
-<img align="center" src="https://github.com/porag-m06/porag-m06/blob/main/Md.%20Porag%20Sarkar%20-%20Tech%20Stack%20.png" alt="Md. Porag Sarkar - Technology Stack" height="auto" width="auto" /> <br><br>
+<img align="center" src="https://github.com/porag-m06/porag-m06/blob/main/Md.%20Porag%20Sarkar%20-%20Tech%20Stack%20.png" alt="Md. Porag Sarkar - Technology Stack" height="auto" width="auto" /> <br><be>
 
-##  A bit more about me...
-So, my name is Porag. I am a Computer Science major and a full-stack software engineer with 2+ years of experience specializing in Spring Boot, and Angular building enterprise solutions.
-- I know how to get to the best possible solution by catching the client's pulse, working to tight deadlines, collaborating between teams, resolving conflicts, and learning fast when necessary.
+
+## 📌 What I’m Working On  
+🚀 Developing **scalable microservices** architecture for high-traffic platforms  
+🌍 Building **cloud-native applications** with AWS & Kubernetes  
+📚 Improving **problem-solving skills** and refining backend architecture  
+💡 Exploring **cutting-edge technologies in distributed systems**  
+
+## 🏆 A Bit About Me  
+🎓 **B.Sc. in Computer Science & Engineering** from **North South University, Dhaka**  
+🖥 **3.5+ years of Java, Springboot backend development & microservices experience**  
+🏗 Domain **hospital management & travel booking solutions serving millions**  
+🌎 **Remote collaboration expert** – Worked across **six different time zones**  
+🎯 Catching the client's pulse, working to tight deadlines, collaborating between teams, resolving conflicts, and learning fast when necessary 🎯"
+   
+
+## 🔥 Professional Experience  
+### **Adventure Dhaka Limited | Software Engineer | Oct 2023 – Present**  
+- Developing **scalable backend microservices** for a **hotel & flight booking system**, serving **millions of users globally**  
+- Integrating **third-party APIs (Expedia, Agoda)** for seamless travel booking experiences  
+- Optimizing **PostgreSQL queries and Elasticsearch indexing** for near real-time search performance  
+- Enhancing **Kafka-based async communication** for efficient distributed messaging
+
+### 🚀 Microverse & Skill Enhancement:  | Feb 2023 – Sept 2023**  
+- Sharpened full-stack development skills through collaboration in Microverse, an immersive training program
+- Pair-programmed remotely across six time zones, refining problem-solving & leadership skills
+- Explored advanced backend architecture, microservices scalability, and cloud-native solutions
+
+### **MYSOFT LIMITED | Full Stack Web Developer | Nov 2021 – Jan 2023**  
+- Contributed to **hospital management system (HIS) with 15+ microservices**, serving **200+ hospitals**  
+- Built **secure and efficient backend solutions** using **Java, Spring Boot, MySQL**  
+- Designed **Angular-powered frontend dashboards** for healthcare professionals  
+- Presented **five+ technical product demos**, driving high client satisfaction and retention  
+
+
+## Finally,
+✨ A heartfelt thank you for taking the time to visit! May your journey be filled with innovation, success, and just the right amount of coffee. ☕🚀
+💡 Let’s connect, collaborate, and build something extraordinary together! 😉
+
+Stay awesome & keep coding! Cheers! 🎉
+
+## Let's Connect 🔗 
+📧 Email: hello2sarkar@gmail.com 
+📞 Phone: +880 1755006689 
+🖥 GitHub: github.com/porag-m06 
+📹 YouTube: youtube.com/@mdporagsarkarh2s197/videos 
+💼 LinkedIn: linkedin.com/in/muhammad-porag-nsu-cse
+
 
 <br>
-
-### A bit of background...
-- After completing my bachelor's in Computer Science in 2020 I did my first internship on full-stack web development. After this, I got an offer and joined my first IT job in 2021 as a junior full-stack developer. Where I worked with Java, and Spring Boot on the backend, and used TypeScript, and Angular on the front end on 3+ ERP software solutions serving 200+ clients. I also prepared and presented more than 5 product presentations among which the client retention rate was more than 90%. 
-
-<br>
-
-### What am I upto now...
-- I’ve been spending the last several months sharpening my development skills even more by collaborating with people from 6 different timezones remotely at Microverse, an online training school, intensely focusing on the core to advanced full-stack technical skill development. 
-- As well as achieving important soft skills like leadership, self-reflection, professionalism, and cross-cultural communication. All through remote pair programming - project by project, capstone by capstone. 
-- **I am on a mission to join a strong tech company working remotely and I am proud of the steps I am taking to achieve that.**
-
-<br> <br>
-
-Finally, I would like to thank you form the bottom of my heart for your kind attention. God bless you and I would be more than happy to hear from you soon for any other info you would like...
-## Cheers!
-
-<br>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=porag-m06&show_icons=true&locale=en&layout=compact" alt="porag-m06"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=porag-m06&show_icons=true&locale=en" alt="porag-m06"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=porag-m06&" alt="porag-m06"/>
