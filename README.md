@@ -6,14 +6,14 @@
 ```java
 public class Porag {
     private String name = "Md. Porag Sarkar";
-    private String role = "Software Engineer | Backend Focused | Microservices Maestro | API Enthusiast";
+    private String role = "Software Engineer | Full Stack | Microservices Maestro | API Enthusiast";
     private boolean lovesCleanCode = true;
     private boolean drinksTooMuchCoffee = true;
 
     private String[] skills = {
-        "Java", "Spring Boot", "PostgreSQL", "Hibernate", "REST APIs", "Microservices",
-        "Kafka", "Elasticsearch", "Docker", "Kubernetes", "AWS Cloud",
-        "Spring Security", "OAuth2", "JWT Authentication", "Git", "Agile", "Jira"
+        "JS","TS","React/Redux","Angular","Java", "Spring Boot", "PostgreSQL", "Hibernate",
+        "REST APIs", "Microservices", "Kafka", "Elasticsearch", "Docker", "Kubernetes",
+        "AWS Cloud", "Spring Security", "OAuth2", "JWT Authentication", "Git", "Agile", "Jira"
     };
 
     private String[] funFacts = {
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ## 🏆 A Bit About Me  
 🎓 **B.Sc. in Computer Science & Engineering** from **North South University, Dhaka**  
-🖥 **3.5+ years of Java, Springboot backend development experience**  
+🖥 **4.5+ years of Java, Springboot backend development experience**  
 🏗 Domain **hospital management & travel booking solutions serving millions**  
 🌎 **Remote collaboration expert** – Worked with people across **six different time zones**  
 🎯 Catching the client's pulse, working to tight deadlines, collaborating between teams, resolving conflicts, and learning fast when necessary 🎯"
