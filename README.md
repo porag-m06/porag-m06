@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ## 🏆 A Bit About Me  
 🎓 **B.Sc. in Computer Science & Engineering** from **North South University, Dhaka**  
-🖥 **4.5+ years of Java, Springboot backend development experience**  
+🖥 **5+ years of Java, Springboot backend development experience**  
 🏗 Domain **hospital management & travel booking solutions serving millions**  
 🌎 **Remote collaboration expert** – Worked with people across **six different time zones**  
 🎯 Catching the client's pulse, working to tight deadlines, collaborating between teams, resolving conflicts, and learning fast when necessary 🎯"
